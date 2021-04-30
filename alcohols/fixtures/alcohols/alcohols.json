@@ -1,0 +1,1487 @@
+[
+	{
+		"model": "articles.Alcohol",
+		"pk": 1,
+		"fields": {
+			"product": "청명주750",
+			"category": "약주",
+			"degree": "17",
+			"ingredient": "국내산 찹쌀, 누룩, 소맥분",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 2,
+		"fields": {
+			"product": "청명주500",
+			"category": "약주",
+			"degree": "17",
+			"ingredient": "국내산 찹쌀, 누룩, 소맥분",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 3,
+		"fields": {
+			"product": "아이원막걸리",
+			"category": "탁주",
+			"degree": "6",
+			"ingredient": "쌀, 밀, 입국, 누룩, 정제수",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 4,
+		"fields": {
+			"product": "시인의마을",
+			"category": "탁주",
+			"degree": "10",
+			"ingredient": "쌀(국내산), 누룩, 정제수, 무감미료",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 5,
+		"fields": {
+			"product": "향수",
+			"category": "탁주",
+			"degree": "9",
+			"ingredient": "우리밀, 누룩, 정제수, 무감미료",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 6,
+		"fields": {
+			"product": "사미인주",
+			"category": "탁주",
+			"degree": "8",
+			"ingredient": "유기농햅쌀(국내산), 벌꿀(국내산), 입국, 누룩, 효모, 정제수",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 7,
+		"fields": {
+			"product": "꿀막걸리",
+			"category": "탁주",
+			"degree": "8",
+			"ingredient": "쌀(국내산), 벌꿀(국내산), 사과농축액, 효모, 정제효소",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 8,
+		"fields": {
+			"product": "청산녹수생탁주",
+			"category": "탁주",
+			"degree": "6",
+			"ingredient": "쌀(국내산), 사과농축액, 효모, 정제효소",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 9,
+		"fields": {
+			"product": "한스오차드",
+			"category": "과실주",
+			"degree": "11",
+			"ingredient": "국산사과원액 100%",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 10,
+		"fields": {
+			"product": "애피소드애플",
+			"category": "과실주",
+			"degree": "3.5",
+			"ingredient": "사과와인, 정제주정, 정제수, 사과농축액, 고과당",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 11,
+		"fields": {
+			"product": "애피소드상그리아",
+			"category": "과실주",
+			"degree": "3.5",
+			"ingredient": "포도와인, 정제주정, 정제수, 포도농축액, 고과당",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 12,
+		"fields": {
+			"product": "애피소드호프",
+			"category": "기타주류",
+			"degree": "3.5",
+			"ingredient": "사과과즙, 보리, 쌀, 홉",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 13,
+		"fields": {
+			"product": "더찾을수록 시리즈(피치)",
+			"category": "과실주",
+			"degree": "14",
+			"ingredient": "사과와인, 정제수, 정제주정 외 제품별 농축액(복숭아, 포도, 사과, 감귤, 생강, 커피향 등)",
+			"volume": "360"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 14,
+		"fields": {
+			"product": "더찾을수록 시리즈(모스카토)",
+			"category": "과실주",
+			"degree": "14",
+			"ingredient": "사과와인, 정제수, 정제주정 외 제품별 농축액(복숭아, 포도, 사과, 감귤, 생강, 커피향 등)",
+			"volume": "360"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 15,
+		"fields": {
+			"product": "더찾을수록 시리즈(애플)",
+			"category": "과실주",
+			"degree": "16",
+			"ingredient": "사과와인, 정제수, 정제주정 외 제품별 농축액(복숭아, 포도, 사과, 감귤, 생강, 커피향 등)",
+			"volume": "360"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 16,
+		"fields": {
+			"product": "더찾을수록 시리즈(감귤)",
+			"category": "과실주",
+			"degree": "16",
+			"ingredient": "사과와인, 정제수, 정제주정 외 제품별 농축액(복숭아, 포도, 사과, 감귤, 생강, 커피향 등)",
+			"volume": "360"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 17,
+		"fields": {
+			"product": "더찾을수록 시리즈(생강)",
+			"category": "과실주",
+			"degree": "16",
+			"ingredient": "사과와인, 정제수, 정제주정 외 제품별 농축액(복숭아, 포도, 사과, 감귤, 생강, 커피향 등)",
+			"volume": "360"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 18,
+		"fields": {
+			"product": "더찾을수록 시리즈(아메리카노)",
+			"category": "과실주",
+			"degree": "14",
+			"ingredient": "사과와인, 정제수, 정제주정 외 제품별 농축액(복숭아, 포도, 사과, 감귤, 생강, 커피향 등)",
+			"volume": "360"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 19,
+		"fields": {
+			"product": "뱅꼬레레드와인",
+			"category": "과실주",
+			"degree": "12",
+			"ingredient": "양조용포도(경북 영천)",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 20,
+		"fields": {
+			"product": "뱅꼬레로제와인",
+			"category": "과실주",
+			"degree": "11.5",
+			"ingredient": "양조용포도(경북 영천)",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 21,
+		"fields": {
+			"product": "뱅꼬레화이트와인",
+			"category": "과실주",
+			"degree": "11",
+			"ingredient": "양조용포도(경북 영천)",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 22,
+		"fields": {
+			"product": "뱅꼬레아이스와인",
+			"category": "과실주",
+			"degree": "12",
+			"ingredient": "양조용포도(경북 영천)",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 23,
+		"fields": {
+			"product": "스타베리오디와인",
+			"category": "과실주",
+			"degree": "12",
+			"ingredient": "양조용포도(경북 영천)",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 24,
+		"fields": {
+			"product": "미소생막걸리",
+			"category": "탁주",
+			"degree": "7",
+			"ingredient": "쌀(국내산), 누룩, 정제수",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 25,
+		"fields": {
+			"product": "왕피천미소생막걸리",
+			"category": "탁주",
+			"degree": "7",
+			"ingredient": "쌀, 누룩, 정제수",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 26,
+		"fields": {
+			"product": "오메기맑은술",
+			"category": "약주",
+			"degree": "16",
+			"ingredient": "좁쌀, 햅쌀, 정제수, 누룩",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 27,
+		"fields": {
+			"product": "제주고소리술",
+			"category": "증류식소주",
+			"degree": "40",
+			"ingredient": "잡곡, 누룩, 정제수",
+			"volume": "400"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 28,
+		"fields": {
+			"product": "호담산양산삼막걸리",
+			"category": "탁주",
+			"degree": "6",
+			"ingredient": "쌀(경기미), 입국, 산양산삼, 정제수, 아스파탐",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 29,
+		"fields": {
+			"product": "월매쌀막걸리캔",
+			"category": "살균탁주",
+			"degree": "6",
+			"ingredient": "백미, 말토올리고당, 정제수",
+			"volume": "350"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 30,
+		"fields": {
+			"product": "니모메",
+			"category": "약주",
+			"degree": "11",
+			"ingredient": "쌀(국내산), 감귤 진피, 정제수",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 31,
+		"fields": {
+			"product": "세우리",
+			"category": "일반증류주",
+			"degree": "45",
+			"ingredient": "산양삼, 하수오, 구기자, 쌀",
+			"volume": "700"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 32,
+		"fields": {
+			"product": "고도리화이트스위트",
+			"category": "과실주",
+			"degree": "10.5",
+			"ingredient": "거봉포도(경북 영천)",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 33,
+		"fields": {
+			"product": "고도리화이트드라이",
+			"category": "과실주",
+			"degree": "10.5",
+			"ingredient": "거봉포도(경북 영천)",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 34,
+		"fields": {
+			"product": "고도리레드스위트",
+			"category": "과실주",
+			"degree": "12",
+			"ingredient": "MBA 머루포도(경북 영천)",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 35,
+		"fields": {
+			"product": "고도리복숭아",
+			"category": "과실주",
+			"degree": "6.5",
+			"ingredient": "복숭아(경북 영천)",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 36,
+		"fields": {
+			"product": "고운달오크",
+			"category": "일반증류주",
+			"degree": "52",
+			"ingredient": "오미자(문경산)",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 37,
+		"fields": {
+			"product": "고운달백자",
+			"category": "일반증류주",
+			"degree": "52",
+			"ingredient": "오미자(문경산)",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 38,
+		"fields": {
+			"product": "문경바람오크",
+			"category": "일반증류주",
+			"degree": "40",
+			"ingredient": "사과(문경산)",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 39,
+		"fields": {
+			"product": "문경바람백자40",
+			"category": "일반증류주",
+			"degree": "40",
+			"ingredient": "사과(문경산)",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 40,
+		"fields": {
+			"product": "문경바람백자25",
+			"category": "일반증류주",
+			"degree": "25",
+			"ingredient": "사과(문경산)",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 41,
+		"fields": {
+			"product": "오미로제프리미어",
+			"category": "과실주",
+			"degree": "12",
+			"ingredient": "오미자(문경산)",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 42,
+		"fields": {
+			"product": "원매",
+			"category": "리큐르",
+			"degree": "15",
+			"ingredient": "매실원주액, 매실청, 꿀, 카라멜, 효소처리스테비아, 정제수",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 43,
+		"fields": {
+			"product": "서울의밤",
+			"category": "리큐르",
+			"degree": "25",
+			"ingredient": "매실증류주원액, 벌꿀, 포도당, 노간주나무열매, 정제수",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 44,
+		"fields": {
+			"product": "고창복분자주300",
+			"category": "과실주",
+			"degree": "13",
+			"ingredient": "복분자과실, 주정, 효모, 구연산, 정제수",
+			"volume": "300"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 45,
+		"fields": {
+			"product": "고창복분자주1800",
+			"category": "과실주",
+			"degree": "15",
+			"ingredient": "복분자과실, 주정, 효모, 구연산, 정제수",
+			"volume": "1800"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 46,
+		"fields": {
+			"product": "쿨샷7.5",
+			"category": "과실주",
+			"degree": "7.5",
+			"ingredient": "복분자과실, 주정, 효모, 구연산, 정제수",
+			"volume": "300"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 47,
+		"fields": {
+			"product": "고창블루베리주",
+			"category": "과실주",
+			"degree": "13",
+			"ingredient": "블루베리과실, 주정, 효모, 구연산, 정제수",
+			"volume": "300"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 48,
+		"fields": {
+			"product": "한비쌀소주",
+			"category": "증류식소주",
+			"degree": "40",
+			"ingredient": "국내산 쌀, 누룩, 정제수",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 49,
+		"fields": {
+			"product": "한비오가피술",
+			"category": "리큐르",
+			"degree": "35",
+			"ingredient": "국내산 쌀, 누룩, 가시오가피 뿌리, 정제수",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 50,
+		"fields": {
+			"product": "한비동충하초술",
+			"category": "리큐르",
+			"degree": "35",
+			"ingredient": "국내산 쌀, 누룩, 가시오가피 뿌리, 동충하초, 정제수",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 51,
+		"fields": {
+			"product": "한비무병장수술",
+			"category": "리큐르",
+			"degree": "35",
+			"ingredient": "국내산쌀, 흑삼, 인삼, 오가피, 오미자, 구기자, 복분자, 차전자, 토사자, 산수유",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 52,
+		"fields": {
+			"product": "계룡산산삼주40%",
+			"category": "일반증류주",
+			"degree": "40",
+			"ingredient": "산양산삼, 정제주, 주정",
+			"volume": "740"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 53,
+		"fields": {
+			"product": "계룡산산삼주21%",
+			"category": "일반증류주",
+			"degree": "21",
+			"ingredient": "산양산삼, 정제주, 주정",
+			"volume": "740"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 54,
+		"fields": {
+			"product": "능이주",
+			"category": "살균약주",
+			"degree": "13",
+			"ingredient": "국내산 쌀, 능이농충액, 누룩, 정제수",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 55,
+		"fields": {
+			"product": "송이주",
+			"category": "살균약주",
+			"degree": "13",
+			"ingredient": "국내산 쌀, 송이농충액, 누룩, 정제수",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 56,
+		"fields": {
+			"product": "화주",
+			"category": "일반증류주",
+			"degree": "25",
+			"ingredient": "국내산 쌀, 홍삼농축액, 정제수",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 57,
+		"fields": {
+			"product": "강소주",
+			"category": "일반증류주",
+			"degree": "50",
+			"ingredient": "국내산 쌀, 정제수",
+			"volume": "200"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 58,
+		"fields": {
+			"product": "감그린레귤러",
+			"category": "과실주",
+			"degree": "12",
+			"ingredient": "감(국내산)",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 59,
+		"fields": {
+			"product": "감그린스페셜",
+			"category": "과실주",
+			"degree": "12",
+			"ingredient": "감(국내산)",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 60,
+		"fields": {
+			"product": "감그린아이스와인",
+			"category": "과실주",
+			"degree": "10",
+			"ingredient": "감(국내산)",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 61,
+		"fields": {
+			"product": "이화백주",
+			"category": "탁주",
+			"degree": "6",
+			"ingredient": "국내산 햅쌀, 전통 누룩, 정제수",
+			"volume": "940"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 62,
+		"fields": {
+			"product": "밤꽃향기",
+			"category": "약주",
+			"degree": "13.5",
+			"ingredient": "국내산 쌀, 밤, 누룩, 정제수",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 63,
+		"fields": {
+			"product": "왕율주",
+			"category": "일반증류주",
+			"degree": "25",
+			"ingredient": "국내산 쌀, 밤, 누룩, 정제수",
+			"volume": "330"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 64,
+		"fields": {
+			"product": "진쾌남",
+			"category": "리큐르",
+			"degree": "25",
+			"ingredient": "국내산 쌀, 밤, 누룩, 구기자, 오미자, 산수유, 오가피, 동충하초, 정제수",
+			"volume": "330"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 65,
+		"fields": {
+			"product": "공주애오디와인",
+			"category": "과실주",
+			"degree": "15",
+			"ingredient": "국내산 오디, 정제수, 주정, 과당, 효모",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 66,
+		"fields": {
+			"product": "도문대작",
+			"category": "탁주",
+			"degree": "10",
+			"ingredient": "강릉 쌀, 누룩, 갯방풍나물, 정제수",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 67,
+		"fields": {
+			"product": "청진주",
+			"category": "약주",
+			"degree": "16",
+			"ingredient": "찹쌀, 누룩, 정제수",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 68,
+		"fields": {
+			"product": "아황주",
+			"category": "약주",
+			"degree": "17",
+			"ingredient": "찹쌀, 멥쌀, 누룩, 정제수",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 69,
+		"fields": {
+			"product": "미인탁주",
+			"category": "탁주",
+			"degree": "10",
+			"ingredient": "찹쌀, 누룩, 정제수",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 70,
+		"fields": {
+			"product": "미인약주",
+			"category": "약주",
+			"degree": "15",
+			"ingredient": "찹쌀, 누룩, 정제수",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 71,
+		"fields": {
+			"product": "삼양춘탁주",
+			"category": "탁주",
+			"degree": "12.5",
+			"ingredient": "강화섬쌀, 전통누룩, 정제수",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 72,
+		"fields": {
+			"product": "삼양춘약주",
+			"category": "약주",
+			"degree": "15",
+			"ingredient": "강화섬쌀, 전통누룩, 정제수",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 73,
+		"fields": {
+			"product": "술그리다",
+			"category": "탁주",
+			"degree": "10",
+			"ingredient": "국내산 쌀, 누룩",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 74,
+		"fields": {
+			"product": "술예쁘다",
+			"category": "탁주",
+			"degree": "13",
+			"ingredient": "국내산 쌀, 누룩",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 75,
+		"fields": {
+			"product": "천비향오양주탁주",
+			"category": "탁주",
+			"degree": "14",
+			"ingredient": "국내산 쌀, 누룩",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 76,
+		"fields": {
+			"product": "천비향오양주약주",
+			"category": "약주",
+			"degree": "16",
+			"ingredient": "국내산 쌀, 누룩",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 77,
+		"fields": {
+			"product": "천비향화주",
+			"category": "증류식소주",
+			"degree": "40",
+			"ingredient": "국내산 쌀, 누룩",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 78,
+		"fields": {
+			"product": "김포예주",
+			"category": "살균약주",
+			"degree": "13",
+			"ingredient": "국내산 쌀, 국, 효모, 젖산, 정제수",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 79,
+		"fields": {
+			"product": "김포약주(병)",
+			"category": "살균약주",
+			"degree": "11",
+			"ingredient": "옥수수 전분, 밀, 국, 효모, 젖산, 효소제, 정제수",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 80,
+		"fields": {
+			"product": "김포약주(PET)",
+			"category": "살균약주",
+			"degree": "11",
+			"ingredient": "옥수수 전분, 밀, 국, 효모, 젖산, 효소제, 정제수",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 81,
+		"fields": {
+			"product": "김포별주",
+			"category": "살균약주",
+			"degree": "13",
+			"ingredient": "쌀, 옥수수 전분, 국, 효모, 젖산, 효소제, 정제수",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 82,
+		"fields": {
+			"product": "김포막걸리",
+			"category": "탁주",
+			"degree": "6",
+			"ingredient": "쌀, 누룩, 정제수",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 83,
+		"fields": {
+			"product": "호모루덴스",
+			"category": "탁주",
+			"degree": "12",
+			"ingredient": "쌀, 누룩, 정제수",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 84,
+		"fields": {
+			"product": "동정춘",
+			"category": "탁주",
+			"degree": "8",
+			"ingredient": "쌀, 누국, 정제수",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 85,
+		"fields": {
+			"product": "백자주",
+			"category": "탁주",
+			"degree": "10",
+			"ingredient": "국내산 찹쌀, 멥쌀, 잣, 누룩, 정제수",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 86,
+		"fields": {
+			"product": "석로주",
+			"category": "약주",
+			"degree": "13",
+			"ingredient": "국내산 쌀, 석이버섯, 누룩, 효모, 정제수",
+			"volume": "720"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 87,
+		"fields": {
+			"product": "녹파주",
+			"category": "약주",
+			"degree": "15",
+			"ingredient": "국내산 찹쌀, 멥쌀, 누룩, 정제수",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 88,
+		"fields": {
+			"product": "한주",
+			"category": "증류식소주",
+			"degree": "35",
+			"ingredient": "국내산 쌀, 밀누룩, 정제수",
+			"volume": "360"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 89,
+		"fields": {
+			"product": "안성마춤생막걸리",
+			"category": "탁주",
+			"degree": "6",
+			"ingredient": "국내산 쌀, 누룩, 효모, 젖산, 정제효소, 정제수",
+			"volume": "1000"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 90,
+		"fields": {
+			"product": "선호생막걸리",
+			"category": "탁주",
+			"degree": "6",
+			"ingredient": "국내산 쌀, 누룩, 효모, 정제효소, 천연감미료, 정제수",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 91,
+		"fields": {
+			"product": "미생막걸리",
+			"category": "탁주",
+			"degree": "6",
+			"ingredient": "국내산 쌀, 누룩, 효모, 정제효소,정제수",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 92,
+		"fields": {
+			"product": "김포특주",
+			"category": "약주",
+			"degree": "15",
+			"ingredient": "국내산 쌀, 효모, 정제효소,정제수, 프락토올리고당",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 93,
+		"fields": {
+			"product": "죽력고",
+			"category": "일반증류주",
+			"degree": "32",
+			"ingredient": "국내산쌀, 죽력, 누룩, 정제수",
+			"volume": "700"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 94,
+		"fields": {
+			"product": "송명섭막걸리",
+			"category": "탁주",
+			"degree": "6",
+			"ingredient": "국내산쌀, 곡자, 정제수",
+			"volume": "900"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 95,
+		"fields": {
+			"product": "면천두견주360",
+			"category": "약주",
+			"degree": "18",
+			"ingredient": "국내산 찹쌀, 누룩, 진달래꽃",
+			"volume": "360"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 96,
+		"fields": {
+			"product": "면천두견주700",
+			"category": "약주",
+			"degree": "18",
+			"ingredient": "국내산 찹쌀, 누룩, 진달래꽃",
+			"volume": "700"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 97,
+		"fields": {
+			"product": "면천두견주900",
+			"category": "약주",
+			"degree": "18",
+			"ingredient": "국내산 찹쌀, 누룩, 진달래꽃",
+			"volume": "900"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 98,
+		"fields": {
+			"product": "매화주",
+			"category": "약주",
+			"degree": "15",
+			"ingredient": "국내산 찹쌀, 누룩, 건조매화꽃, 증류주, 정제수",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 99,
+		"fields": {
+			"product": "연화주",
+			"category": "약주",
+			"degree": "15",
+			"ingredient": "국내산 찹쌀, 누룩, 건조연화꽃, 증류주, 정제수",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 100,
+		"fields": {
+			"product": "국화주",
+			"category": "약주",
+			"degree": "15",
+			"ingredient": "국내산 찹쌀, 누룩, 건조국화꽃, 증류주, 정제수",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 101,
+		"fields": {
+			"product": "순곡주",
+			"category": "약주",
+			"degree": "20",
+			"ingredient": "국내산 찹쌀, 누룩, 증류주, 정제수",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 102,
+		"fields": {
+			"product": "술아막걸리",
+			"category": "탁주",
+			"degree": "8",
+			"ingredient": "국내산 찹쌀, 누룩, 정제수",
+			"volume": "450"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 103,
+		"fields": {
+			"product": "추사로제",
+			"category": "과실주",
+			"degree": "12",
+			"ingredient": "사과(국내산)",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 104,
+		"fields": {
+			"product": "추사40",
+			"category": "일반증류주",
+			"degree": "40",
+			"ingredient": "사과(국내산)",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 105,
+		"fields": {
+			"product": "오희막걸리",
+			"category": "탁주",
+			"degree": "8.5",
+			"ingredient": "백미, 건오미자, 조효소제, 효모, 정제수",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 106,
+		"fields": {
+			"product": "부자10",
+			"category": "탁주",
+			"degree": "10",
+			"ingredient": "경기미",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 107,
+		"fields": {
+			"product": "백련생막걸리 미스티",
+			"category": "탁주",
+			"degree": "7",
+			"ingredient": "쌀, 백련잎, 쌀누룩",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 108,
+		"fields": {
+			"product": "가평잣막걸리 캔",
+			"category": "탁주",
+			"degree": "6",
+			"ingredient": "국내산 쌀, 가평 잣, 쌀누룩",
+			"volume": "350"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 109,
+		"fields": {
+			"product": "문희 오미자",
+			"category": "탁주",
+			"degree": "12",
+			"ingredient": "유기농 찹쌀, 밀누룩, 오미자",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 110,
+		"fields": {
+			"product": "술취한 원숭이",
+			"category": "탁주",
+			"degree": "10.8",
+			"ingredient": "경기미, 밀누룩, 홍국",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 111,
+		"fields": {
+			"product": "솔송주",
+			"category": "약주",
+			"degree": "13",
+			"ingredient": "국내산 쌀, 송순농축액, 밀누룩",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 112,
+		"fields": {
+			"product": "한산소곡주",
+			"category": "약주",
+			"degree": "18",
+			"ingredient": "멥쌀, 찹쌀, 누룩, 들국화, 콩, 생강, 홍고추",
+			"volume": "700"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 113,
+		"fields": {
+			"product": "풍정사계 춘",
+			"category": "약주",
+			"degree": "15",
+			"ingredient": "찹쌀, 향온곡",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 114,
+		"fields": {
+			"product": "청양둔송구기주",
+			"category": "약주",
+			"degree": "16",
+			"ingredient": "찹쌀, 멥쌀, 구기자, 맥문동, 두충, 감초, 들국화, 누룩",
+			"volume": "700"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 115,
+		"fields": {
+			"product": "감홍로",
+			"category": "일반증류주",
+			"degree": "40",
+			"ingredient": "쌀, 좁쌀, 누룩, 용안육, 계피, 진피, 정향, 생강, 감초, 지초",
+			"volume": "700"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 116,
+		"fields": {
+			"product": "진심홍삼인삼주",
+			"category": "일반증류주",
+			"degree": "38",
+			"ingredient": "쌀, 밀누룩, 구낸산 홍삼, 수삼, 주정",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 117,
+		"fields": {
+			"product": "명인안동소주 양반탈",
+			"category": "증류식소주",
+			"degree": "45",
+			"ingredient": "쌀, 쌀누룩",
+			"volume": "800"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 118,
+		"fields": {
+			"product": "추성주",
+			"category": "일반증류주",
+			"degree": "25",
+			"ingredient": "쌀, 누룩, 오미자, 구기자, 상심자, 갈근, 창출, 우슬, 산약, 육계, 두충, 의이인, 연자육",
+			"volume": "350"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 119,
+		"fields": {
+			"product": "문배술",
+			"category": "소주",
+			"degree": "40",
+			"ingredient": "수수, 조",
+			"volume": "700"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 120,
+		"fields": {
+			"product": "이강주",
+			"category": "리큐르",
+			"degree": "25",
+			"ingredient": "쌀, 밀, 보리, 배, 생강, 꿀, 울금, 계피, 누룩",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 121,
+		"fields": {
+			"product": "김천과하주",
+			"category": "기타주류",
+			"degree": "23",
+			"ingredient": "멥쌀, 누룩",
+			"volume": "700"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 122,
+		"fields": {
+			"product": "복분자음",
+			"category": "과실주",
+			"degree": "12",
+			"ingredient": "복분자, 주정",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 123,
+		"fields": {
+			"product": "샤토미소 로제 스위트",
+			"category": "과실주",
+			"degree": "12",
+			"ingredient": "캠벨얼리 포도",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 124,
+		"fields": {
+			"product": "그랑꼬또 청수",
+			"category": "과실주",
+			"degree": "12",
+			"ingredient": "포도(청수)",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 125,
+		"fields": {
+			"product": "여포의 꿈",
+			"category": "과실주",
+			"degree": "12",
+			"ingredient": "청포도",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 126,
+		"fields": {
+			"product": "허니문 와인",
+			"category": "기타주류",
+			"degree": "10",
+			"ingredient": "벌꿀, 진피",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 127,
+		"fields": {
+			"product": "감사",
+			"category": "약주",
+			"degree": "14",
+			"ingredient": "국내산 쌀",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 128,
+		"fields": {
+			"product": "산양산삼가든별",
+			"category": "약주",
+			"degree": "13",
+			"ingredient": "국내산 쌀, 국내 산양산삼",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 129,
+		"fields": {
+			"product": "삼해소주",
+			"category": "증류식소주",
+			"degree": "40",
+			"ingredient": "국내산 쌀, 누룩, 물",
+			"volume": "400"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 130,
+		"fields": {
+			"product": "오매락 퍽",
+			"category": "리큐르",
+			"degree": "40",
+			"ingredient": "국내산 배",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 131,
+		"fields": {
+			"product": "허니비와인",
+			"category": "기타주류",
+			"degree": "8",
+			"ingredient": "국내산 벌꿀",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 132,
+		"fields": {
+			"product": "대덕주",
+			"category": "약주",
+			"degree": "13",
+			"ingredient": "국내산 쌀",
+			"volume": "750"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 133,
+		"fields": {
+			"product": "세종대왕 어주 약주",
+			"category": "약주",
+			"degree": "15",
+			"ingredient": "국내산 찹쌀",
+			"volume": "500"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 134,
+		"fields": {
+			"product": "유기농 이도 14",
+			"category": "약주",
+			"degree": "14",
+			"ingredient": "국내산 유기농쌀",
+			"volume": "375"
+		}
+	},
+	{
+		"model": "articles.Alcohol",
+		"pk": 135,
+		"fields": {
+			"product": "시나브로 화이트 11",
+			"category": "과실주",
+			"degree": "12",
+			"ingredient": "국내산 청수포도",
+			"volume": "500"
+		}
+	}
+]
