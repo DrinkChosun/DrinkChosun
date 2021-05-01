@@ -22,13 +22,13 @@
             </tr>
           </thead>
           <tbody>
-            {% comment %} {% for article in articles %}
+            {% for article in articles %}
               <tr>
                 <td>
                   {{ article.pk }}
                 </td>
                 <td>
-                  {{ article.title }}
+                  <a href="{% url 'articles:detail' article.pk %}">{{ article.title }}</a>
                 </td>
                 <td>
                   {{ article.user }}
@@ -37,7 +37,7 @@
                   {{ article.created_at }}
                 </td>
               </tr>
-            {% endfor %} {% endcomment %}
+            {% endfor %}
           </tbody>
         </table>
       </div>

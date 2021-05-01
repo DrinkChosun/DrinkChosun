@@ -16,9 +16,11 @@
                 <hr />
                 <!-- Date and time-->
                 <p>{{ article.created_at }}</p>
-                <hr />
-                <!-- Preview image-->
-                <img class="img-fluid rounded" src="https://via.placeholder.com/900x300" alt="..." />
+                {% if article.image %}
+                  <hr />
+                  <!-- Preview image-->
+                  <img class="img-fluid rounded" src="{{ article.image.url }}" alt="{{ article.image }}">
+                {% endif %}
                 <hr />
                 <!-- Post content-->
                 <p>{{ article.content }}</p>
@@ -27,7 +29,8 @@
                 <div class="card my-4">
                     <h5 class="card-header">Leave a Comment:</h5>
                     <div class="card-body">
-                        <form>
+                        <form action="{% url 'articles:comments_create' article.pk %}" method="POST">
+                            {% csrf_token %}
                             <div class="form-group"><textarea class="form-control" rows="3"></textarea></div>
                             <button class="btn btn-primary" type="submit">Submit</button>
                         </form>
