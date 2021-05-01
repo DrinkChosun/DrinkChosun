@@ -1,6 +1,6 @@
 [
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 1,
 		"fields": {
 			"product": "청명주750",
@@ -11,7 +11,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 2,
 		"fields": {
 			"product": "청명주500",
@@ -22,7 +22,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 3,
 		"fields": {
 			"product": "아이원막걸리",
@@ -33,7 +33,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 4,
 		"fields": {
 			"product": "시인의마을",
@@ -44,7 +44,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 5,
 		"fields": {
 			"product": "향수",
@@ -55,7 +55,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 6,
 		"fields": {
 			"product": "사미인주",
@@ -66,7 +66,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 7,
 		"fields": {
 			"product": "꿀막걸리",
@@ -77,7 +77,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 8,
 		"fields": {
 			"product": "청산녹수생탁주",
@@ -88,7 +88,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 9,
 		"fields": {
 			"product": "한스오차드",
@@ -99,7 +99,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 10,
 		"fields": {
 			"product": "애피소드애플",
@@ -110,7 +110,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 11,
 		"fields": {
 			"product": "애피소드상그리아",
@@ -121,7 +121,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 12,
 		"fields": {
 			"product": "애피소드호프",
@@ -132,7 +132,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 13,
 		"fields": {
 			"product": "더찾을수록 시리즈(피치)",
@@ -143,7 +143,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 14,
 		"fields": {
 			"product": "더찾을수록 시리즈(모스카토)",
@@ -154,7 +154,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 15,
 		"fields": {
 			"product": "더찾을수록 시리즈(애플)",
@@ -165,7 +165,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 16,
 		"fields": {
 			"product": "더찾을수록 시리즈(감귤)",
@@ -176,7 +176,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 17,
 		"fields": {
 			"product": "더찾을수록 시리즈(생강)",
@@ -187,7 +187,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 18,
 		"fields": {
 			"product": "더찾을수록 시리즈(아메리카노)",
@@ -198,7 +198,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 19,
 		"fields": {
 			"product": "뱅꼬레레드와인",
@@ -209,7 +209,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 20,
 		"fields": {
 			"product": "뱅꼬레로제와인",
@@ -220,7 +220,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 21,
 		"fields": {
 			"product": "뱅꼬레화이트와인",
@@ -231,7 +231,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 22,
 		"fields": {
 			"product": "뱅꼬레아이스와인",
@@ -242,7 +242,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 23,
 		"fields": {
 			"product": "스타베리오디와인",
@@ -253,7 +253,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 24,
 		"fields": {
 			"product": "미소생막걸리",
@@ -264,7 +264,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 25,
 		"fields": {
 			"product": "왕피천미소생막걸리",
@@ -275,7 +275,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 26,
 		"fields": {
 			"product": "오메기맑은술",
@@ -286,7 +286,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 27,
 		"fields": {
 			"product": "제주고소리술",
@@ -297,7 +297,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 28,
 		"fields": {
 			"product": "호담산양산삼막걸리",
@@ -308,7 +308,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 29,
 		"fields": {
 			"product": "월매쌀막걸리캔",
@@ -319,7 +319,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 30,
 		"fields": {
 			"product": "니모메",
@@ -330,7 +330,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 31,
 		"fields": {
 			"product": "세우리",
@@ -341,7 +341,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 32,
 		"fields": {
 			"product": "고도리화이트스위트",
@@ -352,7 +352,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 33,
 		"fields": {
 			"product": "고도리화이트드라이",
@@ -363,7 +363,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 34,
 		"fields": {
 			"product": "고도리레드스위트",
@@ -374,7 +374,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 35,
 		"fields": {
 			"product": "고도리복숭아",
@@ -385,7 +385,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 36,
 		"fields": {
 			"product": "고운달오크",
@@ -396,7 +396,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 37,
 		"fields": {
 			"product": "고운달백자",
@@ -407,7 +407,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 38,
 		"fields": {
 			"product": "문경바람오크",
@@ -418,7 +418,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 39,
 		"fields": {
 			"product": "문경바람백자40",
@@ -429,7 +429,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 40,
 		"fields": {
 			"product": "문경바람백자25",
@@ -440,7 +440,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 41,
 		"fields": {
 			"product": "오미로제프리미어",
@@ -451,7 +451,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 42,
 		"fields": {
 			"product": "원매",
@@ -462,7 +462,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 43,
 		"fields": {
 			"product": "서울의밤",
@@ -473,7 +473,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 44,
 		"fields": {
 			"product": "고창복분자주300",
@@ -484,7 +484,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 45,
 		"fields": {
 			"product": "고창복분자주1800",
@@ -495,7 +495,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 46,
 		"fields": {
 			"product": "쿨샷7.5",
@@ -506,7 +506,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 47,
 		"fields": {
 			"product": "고창블루베리주",
@@ -517,7 +517,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 48,
 		"fields": {
 			"product": "한비쌀소주",
@@ -528,7 +528,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 49,
 		"fields": {
 			"product": "한비오가피술",
@@ -539,7 +539,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 50,
 		"fields": {
 			"product": "한비동충하초술",
@@ -550,7 +550,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 51,
 		"fields": {
 			"product": "한비무병장수술",
@@ -561,7 +561,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 52,
 		"fields": {
 			"product": "계룡산산삼주40%",
@@ -572,7 +572,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 53,
 		"fields": {
 			"product": "계룡산산삼주21%",
@@ -583,7 +583,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 54,
 		"fields": {
 			"product": "능이주",
@@ -594,7 +594,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 55,
 		"fields": {
 			"product": "송이주",
@@ -605,7 +605,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 56,
 		"fields": {
 			"product": "화주",
@@ -616,7 +616,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 57,
 		"fields": {
 			"product": "강소주",
@@ -627,7 +627,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 58,
 		"fields": {
 			"product": "감그린레귤러",
@@ -638,7 +638,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 59,
 		"fields": {
 			"product": "감그린스페셜",
@@ -649,7 +649,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 60,
 		"fields": {
 			"product": "감그린아이스와인",
@@ -660,7 +660,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 61,
 		"fields": {
 			"product": "이화백주",
@@ -671,7 +671,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 62,
 		"fields": {
 			"product": "밤꽃향기",
@@ -682,7 +682,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 63,
 		"fields": {
 			"product": "왕율주",
@@ -693,7 +693,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 64,
 		"fields": {
 			"product": "진쾌남",
@@ -704,7 +704,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 65,
 		"fields": {
 			"product": "공주애오디와인",
@@ -715,7 +715,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 66,
 		"fields": {
 			"product": "도문대작",
@@ -726,7 +726,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 67,
 		"fields": {
 			"product": "청진주",
@@ -737,7 +737,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 68,
 		"fields": {
 			"product": "아황주",
@@ -748,7 +748,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 69,
 		"fields": {
 			"product": "미인탁주",
@@ -759,7 +759,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 70,
 		"fields": {
 			"product": "미인약주",
@@ -770,7 +770,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 71,
 		"fields": {
 			"product": "삼양춘탁주",
@@ -781,7 +781,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 72,
 		"fields": {
 			"product": "삼양춘약주",
@@ -792,7 +792,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 73,
 		"fields": {
 			"product": "술그리다",
@@ -803,7 +803,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 74,
 		"fields": {
 			"product": "술예쁘다",
@@ -814,7 +814,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 75,
 		"fields": {
 			"product": "천비향오양주탁주",
@@ -825,7 +825,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 76,
 		"fields": {
 			"product": "천비향오양주약주",
@@ -836,7 +836,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 77,
 		"fields": {
 			"product": "천비향화주",
@@ -847,7 +847,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 78,
 		"fields": {
 			"product": "김포예주",
@@ -858,7 +858,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 79,
 		"fields": {
 			"product": "김포약주(병)",
@@ -869,7 +869,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 80,
 		"fields": {
 			"product": "김포약주(PET)",
@@ -880,7 +880,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 81,
 		"fields": {
 			"product": "김포별주",
@@ -891,7 +891,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 82,
 		"fields": {
 			"product": "김포막걸리",
@@ -902,7 +902,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 83,
 		"fields": {
 			"product": "호모루덴스",
@@ -913,7 +913,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 84,
 		"fields": {
 			"product": "동정춘",
@@ -924,7 +924,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 85,
 		"fields": {
 			"product": "백자주",
@@ -935,7 +935,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 86,
 		"fields": {
 			"product": "석로주",
@@ -946,7 +946,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 87,
 		"fields": {
 			"product": "녹파주",
@@ -957,7 +957,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 88,
 		"fields": {
 			"product": "한주",
@@ -968,7 +968,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 89,
 		"fields": {
 			"product": "안성마춤생막걸리",
@@ -979,7 +979,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 90,
 		"fields": {
 			"product": "선호생막걸리",
@@ -990,7 +990,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 91,
 		"fields": {
 			"product": "미생막걸리",
@@ -1001,7 +1001,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 92,
 		"fields": {
 			"product": "김포특주",
@@ -1012,7 +1012,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 93,
 		"fields": {
 			"product": "죽력고",
@@ -1023,7 +1023,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 94,
 		"fields": {
 			"product": "송명섭막걸리",
@@ -1034,7 +1034,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 95,
 		"fields": {
 			"product": "면천두견주360",
@@ -1045,7 +1045,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 96,
 		"fields": {
 			"product": "면천두견주700",
@@ -1056,7 +1056,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 97,
 		"fields": {
 			"product": "면천두견주900",
@@ -1067,7 +1067,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 98,
 		"fields": {
 			"product": "매화주",
@@ -1078,7 +1078,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 99,
 		"fields": {
 			"product": "연화주",
@@ -1089,7 +1089,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 100,
 		"fields": {
 			"product": "국화주",
@@ -1100,7 +1100,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 101,
 		"fields": {
 			"product": "순곡주",
@@ -1111,7 +1111,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 102,
 		"fields": {
 			"product": "술아막걸리",
@@ -1122,7 +1122,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 103,
 		"fields": {
 			"product": "추사로제",
@@ -1133,7 +1133,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 104,
 		"fields": {
 			"product": "추사40",
@@ -1144,7 +1144,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 105,
 		"fields": {
 			"product": "오희막걸리",
@@ -1155,7 +1155,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 106,
 		"fields": {
 			"product": "부자10",
@@ -1166,7 +1166,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 107,
 		"fields": {
 			"product": "백련생막걸리 미스티",
@@ -1177,7 +1177,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 108,
 		"fields": {
 			"product": "가평잣막걸리 캔",
@@ -1188,7 +1188,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 109,
 		"fields": {
 			"product": "문희 오미자",
@@ -1199,7 +1199,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 110,
 		"fields": {
 			"product": "술취한 원숭이",
@@ -1210,7 +1210,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 111,
 		"fields": {
 			"product": "솔송주",
@@ -1221,7 +1221,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 112,
 		"fields": {
 			"product": "한산소곡주",
@@ -1232,7 +1232,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 113,
 		"fields": {
 			"product": "풍정사계 춘",
@@ -1243,7 +1243,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 114,
 		"fields": {
 			"product": "청양둔송구기주",
@@ -1254,7 +1254,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 115,
 		"fields": {
 			"product": "감홍로",
@@ -1265,7 +1265,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 116,
 		"fields": {
 			"product": "진심홍삼인삼주",
@@ -1276,7 +1276,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 117,
 		"fields": {
 			"product": "명인안동소주 양반탈",
@@ -1287,7 +1287,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 118,
 		"fields": {
 			"product": "추성주",
@@ -1298,7 +1298,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 119,
 		"fields": {
 			"product": "문배술",
@@ -1309,7 +1309,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 120,
 		"fields": {
 			"product": "이강주",
@@ -1320,7 +1320,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 121,
 		"fields": {
 			"product": "김천과하주",
@@ -1331,7 +1331,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 122,
 		"fields": {
 			"product": "복분자음",
@@ -1342,7 +1342,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 123,
 		"fields": {
 			"product": "샤토미소 로제 스위트",
@@ -1353,7 +1353,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 124,
 		"fields": {
 			"product": "그랑꼬또 청수",
@@ -1364,7 +1364,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 125,
 		"fields": {
 			"product": "여포의 꿈",
@@ -1375,7 +1375,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 126,
 		"fields": {
 			"product": "허니문 와인",
@@ -1386,7 +1386,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 127,
 		"fields": {
 			"product": "감사",
@@ -1397,7 +1397,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 128,
 		"fields": {
 			"product": "산양산삼가든별",
@@ -1408,7 +1408,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 129,
 		"fields": {
 			"product": "삼해소주",
@@ -1419,7 +1419,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 130,
 		"fields": {
 			"product": "오매락 퍽",
@@ -1430,7 +1430,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 131,
 		"fields": {
 			"product": "허니비와인",
@@ -1441,7 +1441,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 132,
 		"fields": {
 			"product": "대덕주",
@@ -1452,7 +1452,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 133,
 		"fields": {
 			"product": "세종대왕 어주 약주",
@@ -1463,7 +1463,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 134,
 		"fields": {
 			"product": "유기농 이도 14",
@@ -1474,7 +1474,7 @@
 		}
 	},
 	{
-		"model": "articles.Alcohol",
+		"model": "alcohols.Alcohol",
 		"pk": 135,
 		"fields": {
 			"product": "시나브로 화이트 11",
