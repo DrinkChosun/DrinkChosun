@@ -4,7 +4,7 @@
 {% block content %}
 <form action="" method="POST">
   {% csrf_token %}
-  {% form.as_p %}
+  {{ form.as_p }}
   <input tyope="submit">
 </form>
 <a href="{% provider_login_url "google" next="/alcohols/" %}">Google</a>
