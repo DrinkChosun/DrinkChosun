@@ -13,6 +13,13 @@
                 <li class="nav-item"><a class="nav-link active" href="{% url 'articles:index' %}">게시판</a></li>
                 <li class="nav-item"><a class="nav-link active" href="#!">My account</a></li>
                 <li class="nav-item"><a class="nav-link active" href="#!">Contact</a></li>
+                {% if request.user.is_authenticated %}
+                <li class="nav-item"><a class="nav-link active" href="{% url 'accounts:logout' %}">로그아웃</a></li>
+                <li class="nav-item"><a class="nav-link active" href="{% url 'accounts:profile' %}">프로필</a></li>
+                {% else %}
+                <li class="nav-item"><a class="nav-link active" href="{% url 'accounts:login' %}">로그인</a></li>
+                <li class="nav-item"><a class="nav-link active" href="{% url 'accounts:signup' %}">회원가입</a></li>
+                {% endif %}
             </ul>
         </div>
     </div>
