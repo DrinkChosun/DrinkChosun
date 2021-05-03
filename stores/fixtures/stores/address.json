@@ -1,0 +1,218 @@
+[
+	{
+		"model": "stores.Store",
+		"pk": 0,
+		"fields": {
+			"store": "익선반주",
+			"address": "서울 종로구 돈화문로11다길 31 1층"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 1,
+		"fields": {
+			"store": "옳은",
+			"address": "서울 종로구 돈화문로11가길 65"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 2,
+		"fields": {
+			"store": "백곰 막걸리",
+			"address": "서울 강남구 압구정로48길 39"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 3,
+		"fields": {
+			"store": "미월",
+			"address": "서울 송파구 백제고분로7길 24-30"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 4,
+		"fields": {
+			"store": "난지당",
+			"address": "서울 강남구 강남대로42길 16"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 5,
+		"fields": {
+			"store": "디히랑",
+			"address": "서울 강남구 언주로121길 4-3"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 6,
+		"fields": {
+			"store": "공간 뒷동산",
+			"address": "서울 성북구 삼선교로2길 3 1층"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 7,
+		"fields": {
+			"store": "술다방",
+			"address": "서울 중구 을지로11길 33 2층"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 8,
+		"fields": {
+			"store": "박경자식당",
+			"address": "서울 서초구 신반포로47길 9-15 1층"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 9,
+		"fields": {
+			"store": "산울림1992",
+			"address": "서울 마포구 서강로9길 60"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 10,
+		"fields": {
+			"store": "누룩나무",
+			"address": "서울 종로구 인사동16길 13"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 11,
+		"fields": {
+			"store": "작",
+			"address": "서울 강남구 논현로95길 14"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 12,
+		"fields": {
+			"store": "작",
+			"address": "서울 종로구 창의문로 155"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 13,
+		"fields": {
+			"store": "작",
+			"address": "서울 관악구 남부순환로 1726"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 14,
+		"fields": {
+			"store": "삼씨오화",
+			"address": "서울 마포구 마포대로4가길 41 1층"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 15,
+		"fields": {
+			"store": "여정막걸리",
+			"address": "서울 동작구 동작대로3길 10"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 16,
+		"fields": {
+			"store": "솟대막걸리양조장",
+			"address": "서울 관악구 신림로 305 3층"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 17,
+		"fields": {
+			"store": "역전회관",
+			"address": "서울 마포구 토정로37길 47"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 18,
+		"fields": {
+			"store": "윤서울",
+			"address": "서울 마포구 홍익로2길 31"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 19,
+		"fields": {
+			"store": "학술적연구소",
+			"address": "서울 종로구 보문로1길 7-4 1층"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 20,
+		"fields": {
+			"store": "이파리",
+			"address": "서울 중구 장충단로13길 34"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 21,
+		"fields": {
+			"store": "이파리",
+			"address": "서울 용산구 녹사평대로40길 59-2 2층"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 22,
+		"fields": {
+			"store": "이파리",
+			"address": "서울 서대문구 연희맛로 4"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 23,
+		"fields": {
+			"store": "이파리",
+			"address": "서울 마포구 월드컵북로44길 46"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 24,
+		"fields": {
+			"store": "주유별장",
+			"address": "서울 종로구 종로3길 17 D타워 4층"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 25,
+		"fields": {
+			"store": "묵전",
+			"address": "서울 강남구 언주로168길 22"
+		}
+	},
+	{
+		"model": "stores.Store",
+		"pk": 26,
+		"fields": {
+			"store": "모우모우",
+			"address": "서울 용산구 이태원로27가길 54-3"
+		}
+	}
+]
