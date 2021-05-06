@@ -16,7 +16,7 @@
 
 ### 📌 ERD
 
-![image-20210504210139979](README.assets/image-20210504210139979.png)
+![image-20210506203248997](README.assets/image-20210506203248997.png)
 
 
 
