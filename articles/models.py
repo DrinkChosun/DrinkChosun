@@ -4,6 +4,7 @@ from accounts.models import User
 # Create your models here.
 class Article(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE)
+    like_users = models.ManyToManyField(User)
     title = models.CharField(max_length=50)
     content = models.TextField()
     image = models.ImageField(blank=True, null=True)
@@ -12,6 +13,7 @@ class Article(models.Model):
     
 
 class Comment(models.Model):
-    content = models.CharField(max_length=200)
     user = models.ForeignKey(User, on_delete=models.CASCADE)
     article = models.ForeignKey(Article, on_delete=models.CASCADE)
+    content = models.CharField(max_length=200)
+    like_users = models.ManyToManyField(User)
