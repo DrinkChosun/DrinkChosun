@@ -7,7 +7,7 @@ from django.contrib.auth.decorators import login_required
 # Create your views here.
 @require_safe
 def index(request):
-    articles = get_list_or_404(Article)
+    articles = Article.objects.all()
     context = {
         'articles': articles
     }

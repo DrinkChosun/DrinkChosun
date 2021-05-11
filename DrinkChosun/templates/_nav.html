@@ -5,17 +5,20 @@
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="{% url 'stores:index' %}">
-                        추천 주점
-                    </a>
-                </li>
+                <li class="nav-item active"><a class="nav-link" href="{% url 'stores:index' %}">추천 주점</a></li>
                 <li class="nav-item"><a class="nav-link active" href="{% url 'articles:index' %}">게시판</a></li>
-                <li class="nav-item"><a class="nav-link active" href="#!">My account</a></li>
-                <li class="nav-item"><a class="nav-link active" href="#!">Contact</a></li>
                 {% if request.user.is_authenticated %}
-                <li class="nav-item"><a class="nav-link active" href="{% url 'accounts:logout' %}">로그아웃</a></li>
-                <li class="nav-item"><a class="nav-link active" href="{% url 'accounts:profile' request.user.pk %}">프로필</a></li>
+                <li class="nav-item"><a class="nav-link active" href="#!">Contact</a></li>
+                <div class="dropdown">
+                    <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                        My account
+                    </a>
+
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                        <li class="nav-item"><a class="nav-link active" href="{% url 'accounts:profile' request.user.pk %}">프로필</a></li>
+                        <li class="nav-item"><a class="nav-link active" href="{% url 'accounts:logout' %}">로그아웃</a></li>
+                    </ul>
+                </div>
                 {% else %}
                 <li class="nav-item"><a class="nav-link active" href="{% url 'accounts:login' %}">로그인</a></li>
                 <li class="nav-item"><a class="nav-link active" href="{% url 'accounts:signup' %}">회원가입</a></li>

@@ -5,7 +5,7 @@
 <form action="" method="POST">
   {% csrf_token %}
   {{ form.as_p }}
-  <input tyope="submit">
+  <button>회원 가입</button>
 </form>
 <a href="{% provider_login_url "google" next="/alcohols/" %}">Google</a>
 {% endblock content %}
