@@ -1,10 +1,18 @@
 {% extends 'base.html' %}
+{% load static %}
 {% load socialaccount %}
 
 {% block content %}
-<form action="" method="POST">
-  {% csrf_token %}
-  {{ form.as_p }}
-  <button>로그인</button>
-</form>
+<div class="container m-auto">
+  <form action="" method="POST">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button>로그인</button>
+  </form>
+  <div class="d-flex flex-column justify-contents-center">
+    <img src="{% static 'assets/kakao_login.png' %}" alt="Login with Kakao" href="{% provider_login_url 'kakao' %}" width="200px">
+    <img src="{% static 'assets/naver_login.png' %}" alt="Login with Naver" href="{% provider_login_url 'naver' %}" width="200px">
+    <img src="{% static 'assets/google_login.png' %}" alt="Login with Google" href="{% provider_login_url 'google' %}" width="200px">
+  </div>
+</div>
 {% endblock content %}

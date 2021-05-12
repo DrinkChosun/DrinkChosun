@@ -4,7 +4,7 @@ from django.views.decorators.http import require_POST, require_http_methods
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth import get_user_model
 from accounts.forms import CustomUserCreationForm, CustomUserChangeForm
-from django.contrib.auth.forms import AuthenticationForm, UserCreationForm
+from django.contrib.auth.forms import AuthenticationForm
 
 # Create your views here.
 @require_http_methods(['GET','POST'])
@@ -74,6 +74,7 @@ def update(request):
         'form': form,
     }
     return render(request, 'accounts/update.html', context)
+
 
 def profile(request, username):
     person = get_object_or_404(get_user_model(), username=username)

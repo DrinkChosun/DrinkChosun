@@ -9,15 +9,11 @@
                 <li class="nav-item"><a class="nav-link active" href="{% url 'articles:index' %}">게시판</a></li>
                 {% if request.user.is_authenticated %}
                 <li class="nav-item"><a class="nav-link active" href="#!">Contact</a></li>
-                <div class="dropdown">
-                    <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
-                        My account
-                    </a>
-
-                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                        <li class="nav-item"><a class="nav-link active" href="{% url 'accounts:profile' request.user.pk %}">프로필</a></li>
-                        <li class="nav-item"><a class="nav-link active" href="{% url 'accounts:logout' %}">로그아웃</a></li>
-                    </ul>
+                <li class="nav-item"><a class="nav-link active" href="{% url 'accounts:profile' request.user.pk %}">프로필</a></li>
+                <form action="{% url 'accounts:logout' %}" method="POST">
+                  {% csrf_token %}
+                  <li class="nav-item"><button>로그아웃</button></li>
+                </form>
                 </div>
                 {% else %}
                 <li class="nav-item"><a class="nav-link active" href="{% url 'accounts:login' %}">로그인</a></li>
